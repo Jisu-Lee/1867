@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vs2022_miro", "vs2022_miro.vcxproj", "{AA224064-E7C3-48C7-9EB6-6C0BB9FFA650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA224064-E7C3-48C7-9EB6-6C0BB9FFA650}.Debug|x64.ActiveCfg = Debug|x64
+		{AA224064-E7C3-48C7-9EB6-6C0BB9FFA650}.Debug|x64.Build.0 = Debug|x64
+		{AA224064-E7C3-48C7-9EB6-6C0BB9FFA650}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA224064-E7C3-48C7-9EB6-6C0BB9FFA650}.Debug|x86.Build.0 = Debug|Win32
+		{AA224064-E7C3-48C7-9EB6-6C0BB9FFA650}.Release|x64.ActiveCfg = Release|x64
+		{AA224064-E7C3-48C7-9EB6-6C0BB9FFA650}.Release|x64.Build.0 = Release|x64
+		{AA224064-E7C3-48C7-9EB6-6C0BB9FFA650}.Release|x86.ActiveCfg = Release|Win32
+		{AA224064-E7C3-48C7-9EB6-6C0BB9FFA650}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9236B891-8D14-465C-9D43-1556B7B40229}
+	EndGlobalSection
+EndGlobal
